@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋 Hello my name is Dhawal Sharma<br>👩‍💻 Computer Science Engineer<br>🤘 Frontend Enthusiast<br>🔭 I’m currently working on excelling in my skills.<br>🤝 I’m looking for a full-time job as a developer.<br>🌱 I’m currently learning Flutter<br>💬 Ask me about tech-related stuff. <br>⚡ Fun fact: I love to have Ice-Creams in winter.
+🙋 Hello my name is Dhawal Sharma<br>👨‍💻 Computer Science Engineer<br>🤘 Frontend Enthusiast<br>🔭 I’m currently working on excelling in my skills.<br>🤝 I’m looking for a full-time job as a developer.<br>🌱 I’m currently learning Flutter<br>💬 Ask me about tech-related stuff. <br>⚡ Fun fact: I love to have Ice-Creams in winter.
 
 
 ## 🌐 Socials:
