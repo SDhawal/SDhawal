@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋 Hello my name is Dhawal Sharma<br>👨‍💻 Computer Science Engineer<br>🤘 Frontend Enthusiast<br>🔭 I’m currently working in Baune Ecosystems as a Mobile Application Developer.<br>🤝 I’m always open to discuss about new position.<br>🌱 I’m currently Making projects in React-Native, SwiftUI and Kotlin<br>💬 Ask me about tech-related stuff. <br>
+🙋 Hello my name is Dhawal Sharma<br>👨‍💻 Computer Science Engineer<br>🤘 Frontend Enthusiast<br>🔭 I’m currently working in Baune Ecosystems as a Software Developer.<br>🤝 I’m open to discuss about new position.<br>🌱 I’m currently Making projects in React-Native, SwiftUI and Kotlin<br>💬 Ask me about tech-related stuff. <br>
 
 
 ## 🌐 Socials:
